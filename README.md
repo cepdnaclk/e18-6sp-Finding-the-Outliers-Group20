@@ -1,4 +1,4 @@
 ___
-# FINDING THE OUTLIERS
+# FINDING THE OUTLIERS - Stock Charts
 ___
 
