@@ -31,7 +31,7 @@ title:
 ## Introduction
 
 Most of stocks during the same trading session are moving almost in the same pattern.
-Next chart is showing how active 30 stocks are chaing during the 390 minutes of trading session.
+Next chart is showing how active 30 stocks are changing during the 390 minutes of trading session.
 
 ![image1](./images/image1.png)
 
