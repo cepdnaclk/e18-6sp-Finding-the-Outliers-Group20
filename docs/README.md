@@ -13,8 +13,6 @@ title:
 
 ---
 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-
 ![Sample Image](./images/sample.png)
 
 
@@ -22,7 +20,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 -  E/18/323, Seekkubadu H.D. [e18323@eng.pdn.ac.lk](mailto:e18323@eng.pdn.ac.lk)
 -  E/18/330, Sewwandi H.R. [e18330@eng.pdn.ac.lk](mailto:e18330@eng.pdn.ac.lk)
 -  E/18/375, Vindula K.P.A. [e18375@eng.pdn.ac.lk](mailto:e18375@eng.pdn.ac.lk)
--  
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Solution](#other-sub-topics)
