@@ -38,8 +38,8 @@ title:
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/e18-6sp-Finding-the-Outliers-Group20/){:target="_blank"}
-- [Project Page](https://cepdnaclk.github.io/e18-6sp-Finding-the-Outliers-Group20/){:target="_blank"}
+- [Project Repository](https://github.com/cepdnaclk/e18-6sp-Finding-the-Outliers-Group20/)
+- [Project Page](https://cepdnaclk.github.io/e18-6sp-Finding-the-Outliers-Group20/)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
