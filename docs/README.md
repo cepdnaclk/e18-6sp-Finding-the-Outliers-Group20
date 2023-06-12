@@ -33,10 +33,11 @@ title:
 Most of stocks during the same trading session are moving almost in the same pattern.
 Next chart is showing how active 30 stocks are chaing during the 390 minutes of trading session.
 
-![image1](./images/image1.png)
-To find a methodology to identify which stock will not follow the crowd.
-Finding the outlier will return exceptional profit as below.
+![image2](./images/image2.png)
 
+By finding a methodology to identify which stock will not follow the crowd, that outlier will return exceptional profit as below.
+
+![image1](./images/image1.png)
 
 ## Other Sub Topics
 
