@@ -35,7 +35,7 @@ Next chart is showing how active 30 stocks are chaing during the 390 minutes of 
 
 ![image1](./images/image1.png)
 
-By finding a methodology to identify which stock will not follow the crowd, that outlier will return exceptional profit as below.
+By identifying outliers in a trading session, the trader will be able to make a large sum of profit by exploiting the large difference in buying and selling price.
 
 ![image2](./images/image2.png)
 
