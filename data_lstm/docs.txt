@@ -1,1 +1,2 @@
 lstm model view
+model uses a 64 neural netword
