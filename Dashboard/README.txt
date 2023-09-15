@@ -7,4 +7,4 @@ myenv\Scripts\activate
 Run the app
 
 streamlit run app.py
-streamlit run app2.py
+streamlit run dashboard.py
