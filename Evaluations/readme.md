@@ -14,4 +14,9 @@ https://docs.google.com/presentation/d/1GZFLZo85oXjZDHuus0lOuIa006Px4LS8GrG4Fn_H
 ## Document
 https://docs.google.com/document/d/1bZDuITwmdpAs4fna2gPL57NIf2ZSByUmVJSO-GEt02I/edit
 
+# Milestone 3 - Final Evaluation
+
+## Presentation
+https://docs.google.com/presentation/d/1GZFLZo85oXjZDHuus0lOuIa006Px4LS8GrG4Fn_HF9Y/edit#slide=id.g14f18329b9a_0_636
+
 
