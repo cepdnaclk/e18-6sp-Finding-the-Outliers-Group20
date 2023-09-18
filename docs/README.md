@@ -41,7 +41,27 @@ By identifying outliers in a trading session, the trader will be able to make a 
 
 ![image2](./images/image2.png)
 
-## Other Sub Topics
+## Problem Domain
+
+Basically, in here We are going to predict the outliers in the stock market.  We all know on the given day that 100 stocks are being exchanged in a single moment. So how can we know at the start of the day which stocks will have the largest gain and which stocks will have the biggest losses. 
+
+In here what we want to do is, we should predict as early as possible which stocks will have the largest deviation from the previous days' values. So, then we can identify what the outlier stocks are.
+
+But normally it is very hard to say about that,  
+that is why we take the previous history values and trained a model to do the prediction.
+
+## Solution
+
+we come up with the model that can predict at the start of the training day its end value. So basically at the start of the training day our model will predict the end value.  
+Then by looking at the predicted values of our model we can evaluate which stock will have the largest gain, largest percentage gain. Based on that we can trade.  
+
+## Machine Learning Approach
+
+We selected **LSTM** as our algorithm. Since we are dealing with the sequencial data, this algorithm will help to model with high accuracy. Based on the past three months values we selected Closed Prize value and build our model to predict the end value of the next day at the start of that day. 
+
+## Data Visualization - Dashboard
+
+## Demo
 
 .....
 
