@@ -64,14 +64,19 @@ We selected **LSTM** as our algorithm. Since we are dealing with the sequencial 
 ### Finding the outliers
 
 ![Screenshot1](./images/Screenshot1.png)
+
 ![Screenshot2](./images/Screenshot2.png)
+
 ![Screenshot4](./images/Screenshot4.png)
+
 ![Screenshot3](./images/Screenshot3.png)
 
 ### Analysing stocks
 
 ![Screenshot5](./images/Screenshot5.png)
+
 ![Screenshot6](./images/Screenshot6.png)
+
 ![Screenshot8](./images/Screenshot8.png)
 
 ## Links
